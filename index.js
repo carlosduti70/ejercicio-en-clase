@@ -16,3 +16,4 @@ let p1= new Punto(1, 2);
 let p2 = new Punto(2, 3);
 
 console.log(p1.suma(p2).toString());
+
